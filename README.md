@@ -1,1 +1,1 @@
-# gitlearntutorial
+# Learning Git from scratch
